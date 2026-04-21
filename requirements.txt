@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+numpy
+openai-whisper
+python-multipart
+requests
+httpx
+aiofiles
+imageio-ffmpeg
